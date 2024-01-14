@@ -1,5 +1,9 @@
 # Scheme-Interpreter
 
+
+## Description: 
+Developed an Interpreter for a subset of the Scheme language in Python, able to evaluate special forms, symbols, calling built-in procedures and definitions
+
 ## Features:
 - Implemented:
   - Evaluation of Scheme Expressions: 
